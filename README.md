@@ -10,9 +10,9 @@ add a config.env file with PORT , NODE_ENV , MONGODB URI
 packages used
 front end :<br/>
 react <br/>
-redux<br/>
-redux-thunk<br/>
-react-redux<br/>
+hooks<br/>
+context api<br/>
+
 
 backend:<br/>
 express<br/>
